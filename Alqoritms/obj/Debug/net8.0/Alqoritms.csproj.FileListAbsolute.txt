@@ -1,0 +1,14 @@
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.AssemblyInfoInputs.cache
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.AssemblyInfo.cs
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.csproj.CoreCompileInputs.cache
+E:\Code Academy\Alqoritms\bin\Debug\net8.0\Alqoritms.exe
+E:\Code Academy\Alqoritms\bin\Debug\net8.0\Alqoritms.deps.json
+E:\Code Academy\Alqoritms\bin\Debug\net8.0\Alqoritms.runtimeconfig.json
+E:\Code Academy\Alqoritms\bin\Debug\net8.0\Alqoritms.dll
+E:\Code Academy\Alqoritms\bin\Debug\net8.0\Alqoritms.pdb
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.dll
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\refint\Alqoritms.dll
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.pdb
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\Alqoritms.genruntimeconfig.cache
+E:\Code Academy\Alqoritms\obj\Debug\net8.0\ref\Alqoritms.dll
